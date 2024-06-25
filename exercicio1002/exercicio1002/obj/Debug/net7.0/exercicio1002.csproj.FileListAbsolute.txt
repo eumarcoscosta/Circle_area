@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/bin/Debug/net7.0/exercicio1002
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/bin/Debug/net7.0/exercicio1002.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/bin/Debug/net7.0/exercicio1002.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/bin/Debug/net7.0/exercicio1002.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/bin/Debug/net7.0/exercicio1002.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/refint/exercicio1002.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/exercicio1002.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/1002/exercicio1002/exercicio1002/obj/Debug/net7.0/ref/exercicio1002.dll
